@@ -6,8 +6,8 @@ Olá, meu nome é Rodrigo!
 
 <div align="center">
   <a href="https://github.com/rodrigovaleferreira">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=rodrigovaleferreira&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigovaleferreira&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=rodrigovaleferreira&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigovaleferreira&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 <div style="display: inline_block"><br>
