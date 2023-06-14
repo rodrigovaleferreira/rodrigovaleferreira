@@ -1,7 +1,7 @@
 Olá, meu nome é Rodrigo!
 
 - 🔭 Estudando front-end/Data science
-- 🤔 Aprendendo sobre html, css
+- 🤔 Aprendendo sobre html, css, JavaScript, python, SQL
 - 😄 Pronouns: ele/dele
 
 <div align="center">
